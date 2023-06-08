@@ -1,2 +1,2 @@
-#!/bin/bash 101-clean_emacs
+#!/bin/bash
 mv[[:upper:]]* /tmp/u
